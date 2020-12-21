@@ -1,0 +1,5 @@
+This file represents the data object description
+
+The DataParser is responsible for parsing streamed data from the uav
+the connection is recived as input, its decoded and parsered, 
+the data is cached in memory 
